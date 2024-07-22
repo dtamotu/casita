@@ -1,7 +1,7 @@
-##Lab 6 casita GLut  Rotar y zoom
+## Lab 6 casita GLut  Rotar y zoom
 
 ![image](https://github.com/user-attachments/assets/b466ea15-9b38-4b91-a34d-af720be778e7)
-##Lab 7.1 Sectores circulares, usando rojo, verde, azul y Glut 
+## Lab 7.1 Sectores circulares, usando rojo, verde, azul y Glut 
 ![image](https://github.com/user-attachments/assets/924f0f73-3550-466f-9400-37a12d60e1ae)
 
 ## 7.2 Diferencias entre Marching Cubes y Delaunay
